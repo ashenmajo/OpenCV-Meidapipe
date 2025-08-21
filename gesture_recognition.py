@@ -1,5 +1,13 @@
 #coding=utf-8
 
+"""
+File name:gesture_recognition.py
+Version:v1.0
+
+The last update time:2025/8/21
+Code by AshenMajo
+"""
+
 import cv2
 import mediapipe as mp
 import math
